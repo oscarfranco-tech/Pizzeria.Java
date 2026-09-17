@@ -43,11 +43,11 @@ public class Principal {
                     break;
 
                 case 0:
-                    System.out.println("Gracias por utilizar Pizzaneitor30001.");
+                    System.out.println("Gracias por utilizar Pizzaneitor30000.");
                     break;
 
                 default:
-                    System.out.println("Opcion no valida.");
+                    System.out.println("Opcion  invalida.");
             }
 
         } while (opcion != 0);
